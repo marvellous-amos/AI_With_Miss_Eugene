@@ -1,2 +1,0 @@
-name: ['rice', 'tomatoes', 'oil', 'onions']
-quantity: ['4 cups', '2 tins', '1 litre', '2 bulbs']

@@ -1,0 +1,9 @@
+ingredient_id,name,category,unit,avg_cost_per_unit,calories_per_unit,protein_g_per_unit,carbs_g_per_unit,fat_g_per_unit
+1,rice,carb,g,0.5,1.3,0.02,0.28,0.003
+2,chicken breast,protein,g,2.5,1.65,0.31,0.0,0.04
+3,tomato,vegetable,g,0.3,0.18,0.01,0.04,0.002
+4,onion,vegetable,g,0.2,0.4,0.01,0.09,0.001
+5,vegetable oil,fat,ml,0.8,8.8,0.0,0.0,1.0
+6,egg,protein,piece,50,70,6.0,0.6,5.0
+7,pasta,carb,g,0.6,1.31,0.05,0.25,0.01
+8,beans,protein,g,0.4,1.4,0.09,0.24,0.01

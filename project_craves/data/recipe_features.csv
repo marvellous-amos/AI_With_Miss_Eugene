@@ -1,0 +1,6 @@
+recipe_id,total_cost,total_calories,total_protein_g,total_carbs_g,total_fat_g,ingredient_count,difficulty_score,prep_time_minutes
+101,239.0,721.0,8.5,99.00000000000001,31.3,4,2,45
+102,651.0,608.5,78.0,4.5,30.05,3,1,30
+103,192.0,535.6,12.0,62.0,27.32,4,1,25
+104,172.0,812.0,28.0,81.0,43.1,3,2,50
+105,114.0,240.0,12.3,3.9,20.03,3,1,15
